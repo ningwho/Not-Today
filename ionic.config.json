@@ -2,5 +2,7 @@
   "name": "NotToday",
   "app_id": "7b17c16c",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
